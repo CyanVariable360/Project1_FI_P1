@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.2",
+    "json-server2": "^0.10.2"
+  }
+}
